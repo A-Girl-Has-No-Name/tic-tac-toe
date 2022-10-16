@@ -1,6 +1,4 @@
-import pygame
 import board
-import colors
 
 
 if __name__ == '__main__':
